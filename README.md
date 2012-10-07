@@ -13,8 +13,10 @@ request.
 ## History
 
 Date     | Venue                            | Notes
--------- | -------------------------------- | -----
-28/02/11 | [TermiSoc](http://termisoc.org/) | n/a
+-------- | -------------------------------- | ------------------------------
+09/09/12 | [TermiSoc](http://termisoc.org/) | First few Fresher's tutorials.
+16/10/11 | [TermiSoc](http://termisoc.org/) | As part of the Hack Weekend.
+28/02/11 | [TermiSoc](http://termisoc.org/) | First proper one.
 
 ## Author / License
 
